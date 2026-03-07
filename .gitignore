@@ -1,0 +1,23 @@
+# Build
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse / NetBeans / VS Code
+.classpath
+.project
+.settings
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
