@@ -1,5 +1,3 @@
-# CS6650 Assignment 2 — Architecture Document
-
 ## 1. System Architecture
 
 ```mermaid
